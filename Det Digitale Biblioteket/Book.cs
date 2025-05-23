@@ -19,6 +19,6 @@ public class Book
 
     public void VisBokInfo()
     {
-        Console.WriteLine($"{Title} som blev skrevet av {Author} ISBN: {Isbn} med utgivelseår {Year} er {(Utleid ? "utlånt" : "tilgjengelig")}.");
+        Console.WriteLine($"{Title} som ble skrevet av {Author} ISBN: {Isbn} med utgivelseår {Year} er {(Utleid ? "utlånt" : "tilgjengelig")}.");
     }
 }

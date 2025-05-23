@@ -36,6 +36,7 @@ Biblotek.LeverInnBok("978-8203370644",101);
 Biblotek.LeverInnBok("978-8202170367",101);
 
 Biblotek.LeverInnBok("978-8203370644",103);
+Biblotek.LånUtBok("978-8203223049",103);
 
 Biblotek.VisAlleBrukere();
 Anne.VisLånteBøker();
